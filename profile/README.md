@@ -8,9 +8,11 @@ We specialize in modeling and simulation of orthopedic mechanics with particular
 Defining a model and performing simulations is just one stage in a modeling and simulation workflow.
 
 ### Image Processing, Segmentation, and Registration
+
 <p align="center">
   <img width="406" height="480" alt="label_overlay" src="https://github.com/user-attachments/assets/1890be10-6b70-4634-b567-d4e41dab6221" /><br>
   <em>A labelmap of segmented anatomy from MRI that has had morphological closing and median filters applied for smoothing, internal holes filled, and Boolean operations applied to ensure congruency between cartilage and bone.</em>
+</p>
 
 ### Computational Geometry
 
