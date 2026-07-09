@@ -9,6 +9,8 @@ Defining a model and performing simulations is just one stage in a modeling and 
 
 ### Image Processing, Segmentation, and Registration
 
+https://github.com/user-attachments/assets/e73ef352-f8b8-4224-b0b3-3c5b2d912048
+
 ### Computational Geometry
 
 ### Model Definition and Solution
